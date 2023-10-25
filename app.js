@@ -4,4 +4,6 @@ let notes = document.querySelectorALL(".input-Box");
 
 createBtn.addEventListener("click", ()=> {
     let inputBox = document.createElement("p");
+    let img = document.createElement("img");
+    
 })
