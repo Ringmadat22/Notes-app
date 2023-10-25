@@ -50,3 +50,8 @@
     border-radius: 5px;
     padding: 20px;
 }
+.input-box img {
+    width: 25px;
+    position: absolute;
+
+}
